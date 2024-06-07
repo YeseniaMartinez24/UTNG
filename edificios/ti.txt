@@ -1,2 +1,3 @@
+# EDIFICIOS
 
-En este edificio están los grupos de TI
+Esta es una lista de todos los edificios de la universidad.
